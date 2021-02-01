@@ -1,1 +1,1 @@
-This is a program to convert a number in binary to decimal.
+programs that convert a number in binary to decimal and decimal to other bases
