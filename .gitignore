@@ -13,3 +13,8 @@
 #layout files
 *.layout
 
+#executable files
+*.exe
+
+#wireshark capture files
+*.out
